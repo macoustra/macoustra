@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**macoustra/macoustra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Dynamic and seasoned educator with over 15 years of in-depth experience in designing and delivering comprehensive learning solutions both in-person and online. Possesses a robust background in educational technology and instructional design, with an exceptional track record of devising innovative, effective, and inclusive learning experiences. Native of Canberra with significant international exposure, offering unique cross-cultural insights that enhance content relevancy and learner engagement. Based in Germany, adept at coordinating across time zones and maximising collaboration with teams in the Americas, Australia, and Asia.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
